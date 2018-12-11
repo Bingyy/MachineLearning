@@ -126,7 +126,6 @@ pyplot.show()
 ```
 
 
-![png](output_10_0.png)
 
 
 
@@ -144,9 +143,6 @@ dataset.hist()
           dtype=object)
 
 
-
-
-![png](output_11_1.png)
 
 
 
@@ -263,8 +259,6 @@ ax.set_xticklabels(models.keys())
 pyplot.show()
 ```
 
-
-![png](output_21_0.png)
 
 
 
